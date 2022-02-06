@@ -1,0 +1,13 @@
+.container {
+    height: 70px;
+    background-color: black;
+}
+
+.navbar {
+    padding-top: 23px;
+    color: #ffff;
+    font-family: Gill Sans, sans-serif;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
